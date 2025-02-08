@@ -1,2 +1,2 @@
-# AI_MIcroservice
+# AI_Microservice
 AI-powered Recommendation Microservice
